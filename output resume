@@ -1,0 +1,41 @@
+"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=52040:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Dev\Tutorial Java\resume\out\production\resume" newMain
+===============CONSTRUCTOR===============
+Name: Fitriani Eka
+Gender: Female
+bday: 09 January 2000
+Age: 20
+Marital: Indonesia
+Home Address: Bekasi, West Java, Indonesia
+Phone Number: (+62) 812-1814-9391
+===============DEFAULT CONSTRUCTOR===============
+Gpa Sem0 : 3.5
+Gpa Sem1 : 3.5
+Gpa Sem2 : 3.4
+Gpa Sem3 : 3.6
+Average Gpa 3.5
+Cgpa : 3.5
+===============CONSTRUCTOR WITH PARAMETER===============
+Gpa sem0 : 3.5
+Gpa sem1 : 3.5
+Gpa sem2 : 3.4
+Gpa sem3 : 3.6
+Average Gpa : 3.5
+Cgpa : 3.5
+===============DEFAULT CONSTRUCTOR===============
+Work Skills : 
+	1)Java
+	2)C++
+===============CONSTRUCTOR WITH PARAMETER===============
+Work Skills : 
+	1)Java
+	2)C++
+===============DEFAULT CONSTRUCTOR===============
+Work Skills : 
+	1)Assistant Script Writer
+	2)Novelist
+===============CONSTRUCTOR WITH PARAMETER===============
+Work Skills : 
+	1)Assistant Script Writer
+	2)Novelist
+
+Process finished with exit code 0
